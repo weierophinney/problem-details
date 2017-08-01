@@ -1,5 +1,11 @@
 # Problem Details for PSR-7 Applications
 
+> ## ABANDONED
+>
+> This repository was used as the starting point for
+> [zendframework/zend-problem-details](https://github.com/zendframework/zend-problem-details),
+> and has been abandoned in favor of that repository.
+
 [![Build Status](https://secure.travis-ci.org/weierophinney/problem-details.svg?branch=master)](https://secure.travis-ci.org/weierophinney/problem-details)
 [![Coverage Status](https://coveralls.io/repos/github/weierophinney/problem-details/badge.svg?branch=master)](https://coveralls.io/github/weierophinney/problem-details?branch=master)
 
